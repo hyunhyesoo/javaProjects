@@ -28,6 +28,5 @@ public class Code02_04 {
         result = num2 / num1;
         System.out.println(result);
         System.out.printf("%d / %d = %d\n", num2, num1, result);
-
     }
 }
