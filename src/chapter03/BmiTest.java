@@ -26,5 +26,6 @@ public class BmiTest {
 
         System.out.printf("체중은 %.2f, 키는 %.2f이므로 bmi지수는 %.2f(kg/m^2)입니다. \n", weight, height, bmi);
         // m^2 = 거듭제곱 나타내기
+        // ㎡ -> ㄹ + 한자 키 누르면 나옴
     }
 }
